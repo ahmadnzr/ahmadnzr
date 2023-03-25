@@ -8,7 +8,7 @@ My technologies stucks:
 {
   javascript: ["React Js", "Next JS", "Express Js"],
   css: ["tailwindcss", "mui", "antd", "bootstrap"],
-  interest: ["svelte","react native", "golang"] //next,
+  interest: ["svelte","react native", "golang"], //next
   other: ["turborepo", "git"]
 }
 ```
