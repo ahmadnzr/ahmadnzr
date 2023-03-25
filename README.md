@@ -1,14 +1,15 @@
   
 <h1 align='center'>Hello there! 👋</h1>
 
-Hi, I'm a `Javascript developer`. I'm using `React Js` to build the user interfaces, also `expressJs` to create a simple server. 
+Hi, I'm a `Javascript developer`. I have experience in develop web application using `react-js`, `next-js`, `monorepo`, `micro-frontend`, `tailwindcss`, etc.
 
-Here are some of the technologies I use
+My technologies stucks:
 ```js
 {
   javascript: ["React Js", "Next JS", "Express Js"],
   css: ["tailwindcss", "mui", "antd", "bootstrap"],
-  interest: ["svelte","react native", "golang"] //next
+  interest: ["svelte","react native", "golang"] //next,
+  other: ["turborepo", "git"]
 }
 ```
 
