@@ -1,9 +1,9 @@
   
 <h1 align='center'>Hello there! 👋</h1>
 
-Hi, I'm a `Javascript developer`. I have experience in develop web application using `react-js`, `next-js`, `monorepo`, `micro-frontend`, `tailwindcss`, etc.
+I'm a web developer.
+The technologies I'm currently working with are :
 
-My technologies stucks:
 ```js
 {
   javascript: ["React Js", "Next JS", "Express Js"],
