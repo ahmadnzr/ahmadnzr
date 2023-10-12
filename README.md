@@ -1,10 +1,4 @@
   
-<h1 align='center'>Hello there! 👋</h1>
-
-
 ```js
-I'm Writing Code !
+call me Nizar!
 ```
-
-
-<h5 align='center'>Feel free to connect with me! 👋</h5>
